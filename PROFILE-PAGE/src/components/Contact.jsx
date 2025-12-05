@@ -33,9 +33,9 @@ const Contact = () => {
             development.
           </p>
           <ul className="contact-info">
-            <li><span>Email:</span> youremail@example.com</li>
-            <li><span>Phone:</span> +91-00000-00000</li>
-            <li><span>Location:</span> Your City, Country</li>
+            <li><span>Email:</span>athzamyz@gmail.com</li>
+            <li><span>Phone:</span> +91-9562847738</li>
+            <li><span>Location:</span> PALAKKAD, INDIA</li>
           </ul>
 
           {/* Social "icons" without extra library */}
